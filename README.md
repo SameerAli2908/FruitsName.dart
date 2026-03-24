@@ -1,2 +1,0 @@
-# FruitsName.dart
-FruitsName Description
